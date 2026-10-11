@@ -1,4 +1,4 @@
-# FPLai plugin for Grok
+# FPLai plugin for Grok, Cursor and other MCP clients
 
 Connect your [FPLai](https://fplai.app) account so Grok can read your Fantasy Premier League analysis, compare players and (with your approval) run a fresh analysis.
 
@@ -21,3 +21,8 @@ https://fplai.app
 
 ## Licence
 MIT
+
+## Install
+- **Grok Build:** install `fplai` from the xAI plugin marketplace.
+- **Cursor:** install `fplai` from the Cursor Marketplace or cursor.directory.
+- **Any MCP client:** add the server URL `https://mcp.fplai.app/mcp` as a custom remote MCP server and sign in with your FPLai account.

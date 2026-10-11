@@ -1,0 +1,14 @@
+{
+  "name": "fplai",
+  "displayName": "FPLai",
+  "version": "0.1.0",
+  "description": "Connect your FPLai account to review your Fantasy Premier League squad, compare players and read saved gameweek analyses.",
+  "author": { "name": "FPLai", "url": "https://fplai.app" },
+  "homepage": "https://fplai.app",
+  "repository": "https://github.com/FPLai-app/fplai-grok-plugin",
+  "license": "MIT",
+  "keywords": ["fplai", "fpl", "fantasy premier league", "mcp"],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
