@@ -1,9 +1,16 @@
 {
   "name": "fplai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect your FPLai account to review your Fantasy Premier League squad, compare players and read saved gameweek analyses.",
-  "author": { "name": "FPLai", "url": "https://fplai.app" },
+  "author": {
+    "name": "FPLai",
+    "url": "https://fplai.app"
+  },
   "homepage": "https://fplai.app",
   "license": "MIT",
-  "keywords": ["fplai", "fplai.app", "fpl ai assistant"]
+  "keywords": [
+    "fplai",
+    "fplai.app",
+    "fpl ai assistant"
+  ]
 }

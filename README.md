@@ -25,4 +25,5 @@ MIT
 ## Install
 - **Grok Build:** install `fplai` from the xAI plugin marketplace.
 - **Cursor:** install `fplai` from the Cursor Marketplace or cursor.directory.
-- **Any MCP client:** add the server URL `https://mcp.fplai.app/mcp` as a custom remote MCP server and sign in with your FPLai account.
+- **Grok Bot:** install `fplai` from the Grok Bot marketplace. Manual setup: add a custom MCP server with URL `https://mcp.fplai.app/mcp` and OAuth client ID `https://cursor.com/oauth/mcp-client.json`, then sign in with your FPLai account.
+- **Any MCP client:** add the server URL `https://mcp.fplai.app/mcp` as a custom remote MCP server and sign in with your FPLai account. FPLai does not support dynamic client registration; clients must use a client ID metadata document FPLai accepts (Cursor/Grok Bot: `https://cursor.com/oauth/mcp-client.json`).

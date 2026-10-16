@@ -1,7 +1,10 @@
 {
   "mcpServers": {
     "fplai": {
-      "url": "https://mcp.fplai.app/mcp"
+      "url": "https://mcp.fplai.app/mcp",
+      "auth": {
+        "CLIENT_ID": "https://cursor.com/oauth/mcp-client.json"
+      }
     }
   }
 }
