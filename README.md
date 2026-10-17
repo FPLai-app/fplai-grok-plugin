@@ -4,10 +4,10 @@ Connect your [FPLai](https://fplai.app) account so Grok can read your Fantasy Pr
 
 ## What it adds
 - Remote MCP server `https://mcp.fplai.app/mcp` (Streamable HTTP, OAuth sign-in with your FPLai account).
-- Skills: `fplai-squad-review`, `fplai-compare-players`, `fplai-run-analysis`.
+- Skills: `fplai-squad-review`, `fplai-compare-players`, `fplai-run-analysis`, `fplai-link-team`.
 
 ## MCP tools
-`get_fplai_account`, `get_latest_fplai_analysis`, `get_fplai_analysis`, `compare_fplai_players`, `run_fplai_analysis`.
+`get_fplai_account`, `get_latest_fplai_analysis`, `get_fplai_analysis`, `compare_fplai_players`, `run_fplai_analysis`, `find_fpl_team`, `link_fpl_team`.
 
 ## Network and credentials
 - Calls only `https://mcp.fplai.app`.
